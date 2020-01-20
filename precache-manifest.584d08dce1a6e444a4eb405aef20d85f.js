@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c819db048305e1547c4",
-    "url": "/vue-diet/css/app.ad3e0d88.css"
+    "revision": "68648d173d57b7ec22da",
+    "url": "/vue-diet/css/app.b0f60225.css"
   },
   {
     "revision": "82b9c7a5a3f405032b1db71a25f67021",
     "url": "/vue-diet/img/logo.82b9c7a5.png"
   },
   {
-    "revision": "8b6ca4862246a3d3b1bd68e3b5a706ca",
+    "revision": "3c0c2a6a2a2f6badf4f549a0f72958a6",
     "url": "/vue-diet/index.html"
   },
   {
-    "revision": "9c819db048305e1547c4",
-    "url": "/vue-diet/js/app.fe3c7afc.js"
+    "revision": "68648d173d57b7ec22da",
+    "url": "/vue-diet/js/app.b568eda9.js"
   },
   {
     "revision": "6a113723971bdaf963ee",
