@@ -9,6 +9,7 @@
 [x] 有 eslint & prettier
 [ ] 用 vuetify 复现 diet（以手机端为主，限制最大宽度，在桌面端也有移动端的效果
 [x] 有 google analytics 统计访客
+[x] 添加 pwa。注意在当前页刷新只是 fetch 了资源；要关闭标签页再打开才会更新内容
 
 ### 持续集成
 [x] owner 直接推 master
@@ -16,13 +17,14 @@
 [x] 有 commitlint 保证 msg 规范
 [x] 基于 github flow 协作模式，就是 clone 下来基于 master 提 pr
 [x] 合到 master 后 github-action 自动发布到 github-pages
+[x] 添加 github 应用 stale 检测过期 issue
+[x] 添加 github 应用 imgbot 自动为新增图片提无损压缩 pr
+[x] 添加 github 应用 depfu 自动为过期依赖提 pr
 [ ] 自带域名（指向 netlify 还是 github-pages
-[ ] 发布成功后通知到邮件、微信
+[ ] 发布成功或失败后通知到邮件、微信
 
 ### TODO
-[] eslint 插件没注册就用上了？
-[] pwa 如何被使用，目前导致更新不及时
-[] 看 github 其他插件，比如监控代码质量的
+[ ] eslint 插件没注册就用上了？
 [] composition api（等1.0.0再学也不迟
 [] typescript（强行上就是折腾
 

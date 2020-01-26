@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "bs": "yarn build && serve dist",
+    "serve": "serve dist",
+    "bs": "yarn build && yarn serve",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
