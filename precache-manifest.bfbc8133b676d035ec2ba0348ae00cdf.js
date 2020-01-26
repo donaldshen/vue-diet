@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "428aff96c99cdfac0297",
+    "revision": "aeb89441a7d09d8afb5d",
     "url": "/vue-diet/css/app.b0f60225.css"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-diet/img/logo.90e3bf48.png"
   },
   {
-    "revision": "a11f2aff7fa4c8e83a70ffc3bfc2b739",
+    "revision": "0e6d142aa4f66ae55ca27970aa962006",
     "url": "/vue-diet/index.html"
   },
   {
-    "revision": "428aff96c99cdfac0297",
-    "url": "/vue-diet/js/app.a25539f4.js"
+    "revision": "aeb89441a7d09d8afb5d",
+    "url": "/vue-diet/js/app.6b682908.js"
   },
   {
-    "revision": "769104016c1456c79bb8",
-    "url": "/vue-diet/js/chunk-vendors.e9b3b633.js"
+    "revision": "c89572a448fd6e499351",
+    "url": "/vue-diet/js/chunk-vendors.7cb4ea12.js"
   },
   {
     "revision": "5d45d4a5cf4dd2f1b7b11a7ae1d4ac40",
