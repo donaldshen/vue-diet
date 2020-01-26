@@ -21,7 +21,7 @@
 
 ### TODO
 [] eslint 插件没注册就用上了？
-[] pwa 如何被使用
+[] pwa 如何被使用，目前导致更新不及时
 [] 看 github 其他插件，比如监控代码质量的
 [] composition api（等1.0.0再学也不迟
 [] typescript（强行上就是折腾
