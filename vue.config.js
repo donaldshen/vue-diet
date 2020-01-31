@@ -4,4 +4,5 @@ module.exports = {
     process.env.BUILD_FOR === 'github-pages'
       ? '/vue-diet/'
       : '/',
+  transpileDependencies: ['vuetify'],
 }

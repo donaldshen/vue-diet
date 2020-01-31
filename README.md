@@ -3,7 +3,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/74a3c931-6a03-4fb7-8931-dcd360e76ba9/deploy-status)](https://app.netlify.com/sites/compassionate-wing-d4bcd6/deploys)
 [![Automated Release Notes by gren](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github-tools.github.io/github-release-notes/)
 
-## 开发流程
+## 开发须知
 
 ### 开发中
 [x] 有 eslint & prettier
@@ -20,13 +20,17 @@
 [x] 添加 github 应用 stale 检测过期 issue
 [x] 添加 github 应用 imgbot 自动为新增图片提无损压缩 pr
 [x] 添加 github 应用 depfu 自动为过期依赖提 pr
-[ ] 自带域名（指向 netlify 还是 github-pages
+[x] 自定义域名（指向 netlify
 [ ] 发布成功或失败后通知到邮件、微信
 
 ### TODO
 [ ] eslint 插件没注册就用上了？
-[] composition api（等1.0.0再学也不迟
-[] typescript（强行上就是折腾
+[ ] composition api（等1.0.0再学也不迟
+[ ] typescript（强行上就是折腾
+
+### 选择 netlify 服务为主的心路历程（优于 github pages & zeit
+[netlify vs github-pages - netlify 官方文章](https://www.netlify.com/github-pages-vs-netlify/)
+[静态站点托管选择历程 - medium 文章](https://medium.com/liferaydesign/netlify-vs-zeit-vs-github-pages-5f609dd6912b)
 
 ## Project setup
 ```
