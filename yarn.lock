@@ -1096,12 +1096,12 @@
     webpack "^4.0.0"
     yorkie "^2.0.0"
 
-"@vue/cli-plugin-pwa@^4.1.0":
-  version "4.1.1"
-  resolved "https://registry.npm.taobao.org/@vue/cli-plugin-pwa/download/@vue/cli-plugin-pwa-4.1.1.tgz#1fde8743d8039cc655f96c9a81112ef46db109ca"
-  integrity sha1-H96HQ9gDnMZV+WyagREu9G2xCco=
+"@vue/cli-plugin-pwa@^4.2.2":
+  version "4.2.2"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-pwa/-/cli-plugin-pwa-4.2.2.tgz#b0bdea2f97f5316caab81407b5cecbb57e600589"
+  integrity sha512-MnWECKdo+jpSIWZo33speBOjTk4jJmVO+b33t+26dqJhVpVITm/anCzOKIiehfl27caoPyEcVzpeY/V/EXhjPw==
   dependencies:
-    "@vue/cli-shared-utils" "^4.1.1"
+    "@vue/cli-shared-utils" "^4.2.2"
     webpack "^4.0.0"
     workbox-webpack-plugin "^4.3.1"
 
@@ -1213,6 +1213,25 @@
     node-ipc "^9.1.1"
     open "^6.3.0"
     ora "^3.4.0"
+    request "^2.87.0"
+    request-promise-native "^1.0.8"
+    semver "^6.1.0"
+    strip-ansi "^6.0.0"
+
+"@vue/cli-shared-utils@^4.2.2":
+  version "4.2.2"
+  resolved "https://registry.yarnpkg.com/@vue/cli-shared-utils/-/cli-shared-utils-4.2.2.tgz#953fec34115cb12d0820012a9d7400f8c27d6660"
+  integrity sha512-EK5wcxgjadqUpSzfh6Bnxd46Zx+SAaHusygqV11UZKHr4EObc/SjCpq7c7drmFkBjRqmVvrHs4jRnJJo5VgCgQ==
+  dependencies:
+    "@hapi/joi" "^15.0.1"
+    chalk "^2.4.2"
+    execa "^1.0.0"
+    launch-editor "^2.2.1"
+    lru-cache "^5.1.1"
+    node-ipc "^9.1.1"
+    open "^6.3.0"
+    ora "^3.4.0"
+    read-pkg "^5.1.1"
     request "^2.87.0"
     request-promise-native "^1.0.8"
     semver "^6.1.0"
