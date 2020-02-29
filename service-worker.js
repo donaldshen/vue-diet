@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vue-diet/precache-manifest.0978abc85d77d0433efeaf0ad0640522.js"
+  "/vue-diet/precache-manifest.c6e3935902ea4198fcc4d89a286f3ec9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-diet"});
