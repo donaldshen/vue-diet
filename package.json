@@ -16,7 +16,7 @@
     "store2": "^2.10.0",
     "vue": "^2.6.11",
     "vue-gtag": "^1.2.0",
-    "vuetify": "^2.1.0"
+    "vuetify": "^2.2.15"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
