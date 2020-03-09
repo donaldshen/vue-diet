@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "core-js": "^3.4.3",
-    "dayjs": "^1.8.20",
+    "dayjs": "^1.8.22",
     "register-service-worker": "^1.6.2",
     "store2": "^2.10.0",
     "vue": "^2.6.11",
