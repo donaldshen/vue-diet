@@ -4,12 +4,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vue-diet/css/chunk-vendors.7d320395.css"
   },
   {
-    "revision": "5f597a9d913c0a6c32d9c42588985051",
+    "revision": "bb455ea50aa331735fc14b25fec7b1a9",
     "url": "/vue-diet/index.html"
   },
   {
-    "revision": "a2efa0926d531beac18e",
-    "url": "/vue-diet/js/app.1e4aae42.js"
+    "revision": "6ae134ddd7dcddb77dc3",
+    "url": "/vue-diet/js/app.1b9ae2a4.js"
   },
   {
     "revision": "6a9c16cda77f106106c7",
